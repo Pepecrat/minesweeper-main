@@ -1,0 +1,41 @@
+{
+    "minesweeper": "Buscaminas",
+    "statistics": "Estadísticas",
+    "settings": "Ajustes",
+
+    "about": "Acerca de",
+    "howToPlay": "Cómo jugar",
+    "rateUs": "Califícanos",
+    "share": "Compartir",
+    "shareMessage": "¡Estoy jugando Buscaminas! ¡Es un juego genial! Deberías probarlo también. \n\n{}",
+    "selectLanguage": "Seleccionar Idioma",
+
+    "version": "Versión {}",
+    "moreGames": "Más juegos",
+    "developerWebsite": "Sitio web del desarrollador",
+    "privacyPolicy": "Política de Privacidad",
+
+    "easy": "Fácil",
+    "medium": "Medio",
+    "hard": "Difícil",
+    "gamesStarted": "Partidas Iniciadas",
+    "gamesWon": "Partidas Ganadas",
+    "winRate": "Tasa de Victoria",
+    "bestTime": "Mejor Tiempo",
+    "averageTime": "Tiempo Promedio",
+    "statisticsError": "Ha ocurrido un error al obtener las estadísticas. Por favor, inténtalo de nuevo más tarde.",
+
+    "exitGame": "Salir del Juego",
+    "exitGameMessage": "¿Estás seguro de que quieres salir del juego? Perderás tu progreso actual.",
+    "yes": "Sí",
+    "no": "No",
+    "skip": "Saltar",
+    "playAgain": "Jugar de Nuevo",
+    "tryAgain": "Intentar de Nuevo",
+
+    "howToPlay1": "Toca un cuadro para revelarlo.",
+    "howToPlay2": "El juego es simple pero desafiante: hay entre 7 y 24 minas ocultas.",
+    "howToPlay3": "Mantén presionado un cuadro para marcarlo con una bandera si crees que hay una mina.",
+    "howToPlay4": "Si revelas una mina, pierdes el juego.",
+    "howToPlay5": "Revela todos los cuadros sin minas para ganar. ¡Confía en tu intuición!"
+} 
